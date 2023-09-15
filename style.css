@@ -125,6 +125,7 @@
   .mentors-container{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
   }
   .mentors-container .card{
     background-color: black;
