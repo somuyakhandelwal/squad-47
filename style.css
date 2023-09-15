@@ -149,5 +149,9 @@
 footer{
     display: flex;
     justify-content:center;
+    background-color:black;
+    color: white;
+    height:30px;
+    width:100%;
 }
 
