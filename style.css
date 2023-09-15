@@ -1,5 +1,6 @@
 * {
     font-family: Nunito, sans-serif;
+    overflow-y:0;
   }
   
   .responsive-cell-block {
@@ -145,3 +146,7 @@
   .fa-linkedin,.fa-instagram{
     font-size: 20px;
   }
+footer{
+    display: flex;
+    justify-content:center;}
+
