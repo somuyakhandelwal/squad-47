@@ -146,12 +146,16 @@
   .fa-linkedin,.fa-instagram{
     font-size: 20px;
   }
-footer{
+  footer{
     display: flex;
-    justify-content:center;
-    background-color:black;
+    justify-content: center;
+    background-color: black;
     color: white;
-    height:30px;
-    width:100%;
-}
+    width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 20px;
+    align-items: center;
+  }
 
